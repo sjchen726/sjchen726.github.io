@@ -12,10 +12,9 @@ redirect_from:
 
 # 蔡子健课题组  
 **中国科学院大学 化学科学学院**
-
 <div style="margin-bottom: 6em;"></div>
 
-### 个人简介
+个人简介
 ====
 蔡子健博士现任中国科学院大学化学科学学院副教授。  
 他于2018年获得中国科学技术大学学士学位，并于2022年获得加州大学伯克利分校材料科学与工程博士学位。  
@@ -24,13 +23,13 @@ redirect_from:
 
 <div style="margin-bottom: 7em;"></div>
 
-### 课题组介绍
+课题组介绍
 ====
 课题组致力于利用“AI for Science”范式进行电池材料的设计与合成。课题组通过建设人工智能自动化实验室，并与先进原位表征手段相结合，旨在快速高效开发新型储能。
 
 <div style="margin-bottom: 8em;"></div>
 
-### 相关链接
+相关链接
 ----
 - [中国科学院大学化学科学学院]([https://chem.ucas.ac.cn/](https://chem.ucas.ac.cn/index.php/zh-cn/))
 - [蔡子健 Google Scholar](https://scholar.google.com/citations?user=4OFp18YAAAAJ&hl=en&oi=ao)
