@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin: 6em 0;"></div>   ← 这里留出超大空白
+<div style="margin: 6em 0;"></div>  
 
 个人简介
 ======
