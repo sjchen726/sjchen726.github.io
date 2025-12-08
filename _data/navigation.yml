@@ -11,11 +11,11 @@ main:
   - title: "研究成果"
     url: /publications/
 
-  - title: "仪器设备"
+  - title: "课题组成员"
     url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "课题组资源"
+    url: /teaching/    
     
 # - title: "Portfolio"
 #   url: /portfolio/
@@ -23,8 +23,8 @@ main:
 #  - title: "Blog Posts"
 #   url: /year-archive/
     
-  - title: "课题组成员"
-    url: /cv/
+#    - title: "课题组成员"
+#   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
