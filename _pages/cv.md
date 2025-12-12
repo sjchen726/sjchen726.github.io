@@ -54,10 +54,7 @@ Honors
 * Lu Jiaxi Talent Program Scholarship  
 
 
-Contact information
-======
-* Email: zjcai@berkeley.edu  
-* Google Scholar profile: [Zijian Cai](https://scholar.google.com/citations?user=4OFp18YAAAAJ&hl=en&oi=ao)
+
 <div style="margin-bottom: 6em;"></div>
 
 <p style="text-align:center; color:#666; font-size:0.9em;">
