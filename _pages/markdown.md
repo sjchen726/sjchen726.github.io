@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "加入我们"
+title: "招生内容"
 permalink: /markdown/
 author_profile: true
 redirect_from: 
@@ -14,6 +14,9 @@ redirect_from:
 欢迎材料科学、化学、物理、自动化等相关背景的本科生加入课题组从事实验或计算方向的科研训练。
 
 （2）硕士及博士研究生（每年各 1–2 名）  
+**招生专业：**  
+- 080502 材料学  
+- 085600 材料与化工  
 
 暂无招收留学生计划，相关申请请勿联系。  
 **No position for international students. Please DO NOT email for related applications.**
@@ -25,6 +28,9 @@ redirect_from:
 （3）科研助理  
 欢迎具有 **编程** 或 **机器人相关工作经验** 的同学加入课题组从事科研助理工作。
 
+联系时请附带：  
+- 个人简历  
+- 本科（及研究生阶段，如有）成绩单  
 ---
 
 ## 招生专业
@@ -36,16 +42,6 @@ redirect_from:
 
 - 储能材料与先进材料表征方法  
 - 人工智能驱动的自动化实验室
-
----
-## 地址 & 联系方式
-
-**实验室地址：**  
-中国科学院大学（雁栖湖校区）东区  怀北楼 115 室 · 电化学储能实验室  
-北京市怀柔区怀北镇怀北庄村 380 号  
-
-**联系方式：**  
-团队负责人邮箱：zjcai@berkeley.edu 
 
 ---
 
