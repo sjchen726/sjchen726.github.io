@@ -42,9 +42,14 @@ redirect_from:
 ## 招生方向
 
 - 储能材料与先进材料表征方法  
-- 人工智能驱动的自动化实验室
+- 人工智能驱动的自动化实验室（Self-driving Lab）
 
 ---
+## 地址&联系方式：
+中国科学院大学（雁栖湖校区）东区，怀北楼115，电化学储能实验室。
+北京市怀柔区怀北镇怀北庄村380号。
+团队负责人邮箱: zjcai@berkeley.edu
+
 
 <p style="text-align:center; color:#666; font-size:0.9em; margin-top:40px;">
   © 2025 蔡子健课题组 · All Rights Reserved
