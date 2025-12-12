@@ -35,7 +35,7 @@ redirect_from:
 ## 招生方向
 
 - 储能材料与先进材料表征方法  
-- 人工智能驱动的自动化实验室（Self-driving Lab）
+- 人工智能驱动的自动化实验室
 
 ---
 ## 地址 & 联系方式
@@ -46,7 +46,9 @@ redirect_from:
 
 **联系方式：**  
 团队负责人邮箱：zjcai@berkeley.edu 
-
+联系时请附带：
+- 个人简历  
+- 本科（及研究生阶段，如有）成绩单  
 ---
 
 <p style="text-align:center; color:#666; font-size:0.9em; margin-top:40px;">
