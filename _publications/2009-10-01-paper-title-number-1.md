@@ -12,4 +12,4 @@ paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 --- -->
-[1] Cai, Z.†, Ouyang, B.†, Hau, H. M., Chen, T., Giovine, R., Koirala, K. P., ... & Ceder, G. (2023). In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials. Nature Energy, 1-10. (†equal contribution)![Uploading image.png…]()
+[1] Cai, Z.†, Ouyang, B.†, Hau, H. M., Chen, T., Giovine, R., Koirala, K. P., ... & Ceder, G. (2023). In situ formed partially disordered phases as earth-abundant Mn-rich cathode materials. Nature Energy, 1-10. (†equal contribution)
