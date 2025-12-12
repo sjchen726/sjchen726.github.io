@@ -44,6 +44,15 @@ redirect_from:
 - 人工智能驱动的自动化实验室
 
 ---
+## 地址 & 联系方式
+
+**地址：**  
+中国科学院大学（雁栖湖校区）东区，怀北楼115，电化学储能实验室。
+北京市怀柔区怀北镇怀北庄村 380 号  
+
+**联系方式：**  
+团队负责人邮箱：  
+📧 zjcai@berkeley.edu  
 
 <p style="text-align:center; color:#666; font-size:0.9em; margin-top:40px;">
   © 2025 蔡子健课题组 · All Rights Reserved
