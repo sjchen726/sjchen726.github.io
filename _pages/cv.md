@@ -48,10 +48,6 @@ Honors
 * Charles Hatchett Award  
 * Materials Research Society (MRS) Best Poster Award  
 * National Scholarship of China (国家奖学金), 2016–2017  
-* Leadership Scholarship  
-* Scholarship for Outstanding Students, Dalian Institute of Chemical Physics, CAS  
-* Wu Xuezhou Scholarship, Changchun Institute of Applied Chemistry, CAS  
-* Lu Jiaxi Talent Program Scholarship  
 
 
 
